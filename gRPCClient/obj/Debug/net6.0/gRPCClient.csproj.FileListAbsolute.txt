@@ -1,0 +1,114 @@
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\appsettings.Development.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\appsettings.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.staticwebassets.runtime.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.exe
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.deps.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.runtimeconfig.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.pdb
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.csproj.AssemblyReference.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.AssemblyInfoInputs.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.AssemblyInfo.cs
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.csproj.CoreCompileInputs.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.MvcApplicationPartsAssemblyInfo.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.RazorAssemblyInfo.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.RazorAssemblyInfo.cs
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.gRPCClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCClient.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCClient.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCClient.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets.pack.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets.build.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets.development.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\scopedcss\bundle\gRPCClient.styles.css
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\scopedcss\projectbundle\gRPCClient.bundle.scp.css
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.csproj.CopyComplete
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\refint\gRPCClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.pdb
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.genruntimeconfig.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\ref\gRPCClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\PCSC.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Sydesoft.NfcDevice.ACR122U.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\MiFare.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\EPPlus.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\ClosedXML.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Irony.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\XLParser.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\appsettings.Development.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\appsettings.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.staticwebassets.runtime.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.exe
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.deps.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.runtimeconfig.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\gRPCClient.pdb
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\ClosedXML.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\EPPlus.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Google.Protobuf.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Irony.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\MiFare.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\PCSC.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\Sydesoft.NfcDevice.ACR122U.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\XLParser.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.csproj.AssemblyReference.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.AssemblyInfoInputs.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.AssemblyInfo.cs
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.csproj.CoreCompileInputs.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.MvcApplicationPartsAssemblyInfo.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.RazorAssemblyInfo.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.RazorAssemblyInfo.cs
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.gRPCClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCClient.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCClient.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCClient.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets.pack.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets.build.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\staticwebassets.development.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\scopedcss\bundle\gRPCClient.styles.css
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\scopedcss\projectbundle\gRPCClient.bundle.scp.css
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.csproj.CopyComplete
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\refint\gRPCClient.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.pdb
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\gRPCClient.genruntimeconfig.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPCClient\obj\Debug\net6.0\ref\gRPCClient.dll

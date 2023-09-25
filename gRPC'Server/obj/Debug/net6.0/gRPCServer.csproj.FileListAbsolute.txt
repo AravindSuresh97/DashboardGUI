@@ -1,0 +1,252 @@
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.AssemblyReference.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.AssemblyInfoInputs.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.AssemblyInfo.cs
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.CoreCompileInputs.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.MvcApplicationPartsAssemblyInfo.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\appsettings.Development.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\appsettings.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.exe
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.deps.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.runtimeconfig.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.pdb
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.gRPCServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCServer.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCServer.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCServer.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\scopedcss\bundle\gRPCServer.styles.css
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.CopyComplete
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\refint\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.pdb
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.genruntimeconfig.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\ref\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\appsettings.Development.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\appsettings.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\gRPCServer.exe
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\gRPCServer.deps.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\gRPCServer.runtimeconfig.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\gRPCServer.pdb
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.AssemblyReference.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.AssemblyInfoInputs.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.AssemblyInfo.cs
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.CoreCompileInputs.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.MvcApplicationPartsAssemblyInfo.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.gRPCServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCServer.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCServer.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCServer.props
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\scopedcss\bundle\gRPCServer.styles.css
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.CopyComplete
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\refint\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.pdb
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\gRPCServer.genruntimeconfig.cache
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\obj\Debug\net6.0\ref\gRPCServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Azure.Core.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC - Copy\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Azure.Core.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\PCSC.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Sydesoft.NfcDevice.ACR122U.dll
+C:\UQ Courses\Semester 3\ENGG7813 - Thesis\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\MiFare.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\appsettings.Development.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\appsettings.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.exe
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.deps.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.runtimeconfig.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\gRPCServer.pdb
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Azure.Core.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Azure.Identity.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Google.Protobuf.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Net.Client.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Grpc.Net.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\MiFare.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\PCSC.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\Sydesoft.NfcDevice.ACR122U.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Memory.Data.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.AssemblyReference.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.AssemblyInfoInputs.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.AssemblyInfo.cs
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.CoreCompileInputs.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.MvcApplicationPartsAssemblyInfo.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.gRPCServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.build.gRPCServer.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gRPCServer.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gRPCServer.props
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets.build.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\staticwebassets.development.json
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\scopedcss\bundle\gRPCServer.styles.css
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.csproj.CopyComplete
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\refint\gRPCServer.dll
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.pdb
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\gRPCServer.genruntimeconfig.cache
+C:\UQ Courses\Semester 4\Thesis\Code\GUI .NET v4\gRPC\gRPC'Server\obj\Debug\net6.0\ref\gRPCServer.dll

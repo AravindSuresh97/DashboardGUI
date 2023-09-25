@@ -1,0 +1,13 @@
+.env
+.gitk*
+.idea/*
+.DS_Store
+*.exe
+*.pdb
+*.bak
+node_modules/*
+SlickgridRelease*
+nuget*
+testresult.xml
+yarn-error.log
+yarn.lock

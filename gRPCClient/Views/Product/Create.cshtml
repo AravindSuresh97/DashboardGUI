@@ -1,0 +1,46 @@
+﻿@model gRPC_Client.Inventory
+@using gRPCClient.Helpers
+@{
+}
+@Html.AntiForgeryToken()
+
+<form asp-action="Create" method="post">
+    <table class="table table-striped table-striped">
+        <tr>
+            <td>Product ID</td>
+            <td>@Html.TextBoxFor(m => m.ProductID, new { @required = "required" })</td>
+        </tr>
+        <tr>
+            <td>Product Name</td>
+            <td>@Html.TextBoxFor(m => m.ProductName, new { @required = "required" })</td>
+        </tr>
+        @if (GlobalVariables.ProductExists)
+        {
+            <script>
+                setTimeout(function () {
+                @{
+                    GlobalVariables.ProductExists = false;
+                }
+                                            }, 2000);
+            </script>
+            <tr>
+                <label style="color:red; "><i><b>**Product ID/Product Name Already Exists**</b></i></label>
+            </tr>
+        }
+        <tr>
+            <td>Quantity</td>
+            <td>@Html.TextBoxFor(m => m.Quantity, new { @type = "number", @required = "required" })</td>
+        </tr>
+        <tr>
+            <td>Date Received</td>
+            <td><input type="date" asp-for="@Model.DateRecieved" required /></td>
+        </tr>
+        <tr>
+            <td>Cost</td>
+            <td>@Html.TextBoxFor(m => m.Cost, new { @type = "number", @required = "required" })</td>
+        </tr>
+    </table>
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
+<a asp-action="Index">Back to list</a>

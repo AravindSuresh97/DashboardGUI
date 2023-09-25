@@ -1,0 +1,57 @@
+﻿@model gRPC_Client.Inventorys
+@{
+}
+
+<!-- Include SlickGrid CSS -->
+<link rel="stylesheet" type="text/css" href="~/lib/slickgrid/slick.grid.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/slickgrid/slick-default-theme.css" />
+
+<!-- Include jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Include SlickGrid JavaScript -->
+<script src="~/lib/slickgrid/slick.core.js"></script>
+<script src="~/lib/slickgrid/slick.grid.js"></script>
+
+<a class="btn btn-primary" asp-action="Create">Create</a>
+<button id="exportBtn" class="btn btn-primary">Export</button>
+<div id="myGrid"></div>
+
+<script>
+    // Define the data source object
+    var dataView = new Slick.Data.DataView();
+    var data = @Html.Raw(Json.Serialize(Model.Items));
+    dataView.setItems(data);
+
+    // Define the grid columns
+    var columns = [
+        { id: "ProductID", name: "Product Id", field: "ProductID", sortable: true },
+        { id: "ProductName", name: "Product Name", field: "ProductName", sortable: true },
+        { id: "Quantity", name: "Quantity", field: "Quantity", sortable: true },
+        { id: "DateRecieved", name: "Date", field: "DateRecieved", sortable: true },
+        { id: "Actions", name: "Actions", field: "Actions" }
+    ];
+
+    // Define the grid options
+    var options = {
+        enableColumnReorder: false,
+        enableCellNavigation: true,
+        forceFitColumns: true,
+        rowHeight: 30,
+        headerRowHeight: 40
+    };
+
+    // Initialize the grid object 
+    var grid = new Slick.Grid("#myGrid", dataView, columns, options);
+
+    // Bind the grid to the data source
+    dataView.onRowCountChanged.subscribe(function (e, args) {
+        grid.updateRowCount();
+        grid.render();
+    });
+
+    dataView.onRowsChanged.subscribe(function (e, args) {
+        grid.invalidateRows(args.rows);
+        grid.render();
+    });
+</script>

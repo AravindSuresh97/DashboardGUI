@@ -1,0 +1,262 @@
+﻿@model gRPC_Client.Inventorys
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+
+@*<div style="display:flex">
+    <div style="flex:1">
+        <canvas id="productChart1" width="400" height="400"></canvas>
+    </div>
+    <div style="flex:1">
+        <canvas id="productChart2" width="400" height="200"></canvas>
+    </div>
+    <div style="flex:1">
+        <canvas id="productChart3" width="400" height="200"></canvas>
+    </div>
+</div>*@
+
+<div class="container">
+    <div class="box box1">
+        <canvas id="productChart1" width="400" height="400"></canvas>
+    </div>
+    <div>
+        <div class="box box2">
+            <canvas id="productChart2" width="400" height="200"></canvas>
+        </div>
+        <div class="box box3">
+            <canvas id="productChart3" width="400" height="200"></canvas>
+        </div>
+    </div>
+</div>
+
+<style>
+    .container {
+        display: flex;
+
+        justify-content: center;
+        align-items: center;
+     /*   height: 100vh;*/
+    }
+
+    .box {
+        height: 800px;
+        width: 800px;
+ /*       border: 1px solid black;*/
+    /*    margin: 20px;*/
+    }
+
+    .box1 {
+        height: 600px;
+        width: 600px;
+        margin-right: 20px;
+    }
+
+    .box2 {
+        height: 300px;
+        width: 600px;
+    }
+
+    .box3 {
+        height: 300px;
+        width: 600px;
+    }
+</style>
+
+
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  
+    var products = JSON.parse('@Html.Raw(Json.Serialize(@Model.Items))');
+    var labels1 = [];
+    var data1 = [];
+    var labels2 = [];
+    var data2 = [];
+  
+    $.each(products, function (index, product) {
+        labels1.push(product.productName + "\nID: " + product.productID);
+        data1.push(product.quantity);
+    });
+    // Sort products by cost in descending order
+    products.sort(function (a, b) {
+        return b.cost - a.cost;
+    });
+    $.each(products, function (index, product) {
+        labels2.push(product.productName + "\nID: " + product.productID);
+        data2.push(product.cost);
+    });
+    //var backgroundColors = ['rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)'];
+    //var borderColors = ['rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)'];
+    var backgroundColors = ['rgba(255, 99, 132, 0.2)', 'rgba(54, 162, 235, 0.2)', 'rgba(255, 206, 86, 0.2)', 'rgba(75, 192, 192, 0.2)', 'rgba(153, 102, 255, 0.2)', 'rgba(255, 159, 64, 0.2)', 'rgba(255, 0, 0, 0.2)', 'rgba(0, 255, 0, 0.2)', 'rgba(0, 0, 255, 0.2)', 'rgba(255, 255, 0, 0.2)', 'rgba(0, 255, 255, 0.2)', 'rgba(255, 0, 255, 0.2)', 'rgba(128, 128, 128, 0.2)', 'rgba(255, 165, 0, 0.2)', 'rgba(0, 128, 0, 0.2)'];
+    var borderColors = ['rgba(255, 99, 132, 1)', 'rgba(54, 162, 235, 1)', 'rgba(255, 206, 86, 1)', 'rgba(75, 192, 192, 1)', 'rgba(153, 102, 255, 1)', 'rgba(255, 159, 64, 1)', 'rgba(255, 0, 0, 1)', 'rgba(0, 255, 0, 1)', 'rgba(0, 0, 255, 1)', 'rgba(255, 255, 0, 1)', 'rgba(0, 255, 255, 1)', 'rgba(255, 0, 255, 1)', 'rgba(128, 128, 128, 1)', 'rgba(255, 165, 0, 1)', 'rgba(0, 128, 0, 1)'];
+
+    //var backgroundColors = [];
+    //var borderColors = [];
+    //var colorIndex = 0;
+    //$.each(products, function (index, product) {
+    //    backgroundColors.push(`rgba(${colorIndex * 20}, ${colorIndex * 30}, ${colorIndex * 40}, 0.2)`);
+    //    borderColors.push(`rgba(${colorIndex * 20}, ${colorIndex * 30}, ${colorIndex * 40}, 1)`);
+    //    colorIndex++;
+    //});
+
+    var datasets1 = [{ label: 'Units in Stock', data: data1, backgroundColor: backgroundColors, borderColor: borderColors, borderWidth: 1 }];
+    var datasets2 = [{ label: 'Cost', data: data2, backgroundColor: backgroundColors, borderColor: borderColors, borderWidth: 1 }];
+
+    
+    var ctx1 = document.getElementById('productChart1').getContext('2d');
+    var ctx2 = document.getElementById('productChart2').getContext('2d');
+    var ctx3 = document.getElementById('productChart3').getContext('2d');
+    var chart = new Chart(ctx1, {
+        type: 'pie',
+        data: {
+            labels: labels1,
+            //datasets: [{
+            //    label: 'Units in Stock',
+            //    data: data,
+            //    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+            //    borderColor: 'rgba(54, 162, 235, 1)',
+            //    borderWidth: 1
+            //}]
+            datasets: datasets1
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+    });
+    var chart = new Chart(ctx2, {
+        type: 'bar',
+        data: {
+            labels: labels2,
+            //datasets: [{
+            //    label: 'Units in Stock',
+            //    data: data,
+            //    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+            //    borderColor: 'rgba(54, 162, 235, 1)',
+            //    borderWidth: 1
+            //}]
+            datasets: datasets2
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+    });
+    var chart = new Chart(ctx3, {
+        type: 'line',
+        data: {
+            labels: labels1,
+            //datasets: [{
+            //    label: 'Units in Stock',
+            //    data: data,
+            //    backgroundColor: 'rgba(54, 162, 235, 0.2)',
+            //    borderColor: 'rgba(54, 162, 235, 1)',
+            //    borderWidth: 1
+            //}]
+            datasets: datasets1
+        },
+        options: {
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+    });
+
+</script>
+
+@*@section scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var products = Model.Items;
+            var labels = [];
+            var data = [];
+
+            $.each(products, function (index, product) {
+                labels.push(product.ProductID);
+                data.push(product.UnitsInStock);
+            });
+
+            var ctx = document.getElementById('productChart').getContext('2d');
+            var chart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Units in Stock',
+                        data: data,
+                        backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true
+                            }
+                        }]
+                    }
+                }
+            });
+        });
+    </script>
+}*@
+
+@*@section scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.3.2/chart.min.js"></script>
+    <script>
+        
+        var products = Model.Items;
+        var data = {
+            labels: products.map(p => p.Name),
+            datasets: [{
+                label: 'Sales',
+                data: products.map(p => p.Sales),
+                backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                borderColor: 'rgba(255, 99, 132, 1)',
+                borderWidth: 1
+            }]
+        };
+
+        var options = {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        };
+
+        var ctx = document.getElementById('productChart').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: data,
+            options: options
+        });
+    </script>
+}*@

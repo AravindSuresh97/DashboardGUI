@@ -1,0 +1,2013 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\gRPCClient.bundle.scp.css",
+      "PackagePath": "staticwebassets\\gRPCClient.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\datatables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\datatables.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\datatables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\datatables.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\lib\\datatables\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\lib\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\.eslintrc",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\.eslintrc"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\.gitattributes"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\.gitignore"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\.npmignore"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\slickgrid"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\README.md",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\README.md"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\controls\\slick.columnpicker.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\controls\\slick.columnpicker.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\controls\\slick.columnpicker.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\controls\\slick.columnpicker.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\controls\\slick.gridmenu.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\controls\\slick.gridmenu.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\controls\\slick.gridmenu.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\controls\\slick.gridmenu.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\controls\\slick.pager.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\controls\\slick.pager.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\controls\\slick.pager.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\controls\\slick.pager.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\select2.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\select2.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\jquery-ui-1.11.3.custom.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\jquery-ui-1.11.3.custom.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\jquery-ui-1.11.3.custom.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\jquery-ui-1.11.3.custom.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\css\\smoothness\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\css\\smoothness\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress.json",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress.json"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\fixtures\\example.json",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\fixtures\\example.json"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-auto-scroll-when-dragging.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-auto-scroll-when-dragging.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-checkbox-header-row.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-checkbox-header-row.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-colspan.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-colspan.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-composite-editor-modal-dialog.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-composite-editor-modal-dialog.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-draggable-grouping.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-draggable-grouping.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-frozen-columns-and-column-group.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-frozen-columns-and-column-group.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-frozen-columns-and-rows.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-frozen-columns-and-rows.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-frozen-rows.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-frozen-rows.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-grid-menu.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-grid-menu.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-grouping.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-grouping.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-multi-grid-basic.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-multi-grid-basic.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-optimizing-updates.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-optimizing-updates.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-plugin-contextmenu.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-plugin-contextmenu.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-plugin-custom-tooltip.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-plugin-custom-tooltip.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-plugin-headerbuttons.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-plugin-headerbuttons.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-plugin-headermenu.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-plugin-headermenu.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example-row-detail-selection-and-move.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example-row-detail-selection-and-move.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example3-editing.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example3-editing.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\integration\\example4-model.spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\integration\\example4-model.spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\plugins\\index.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\plugins\\index.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\support\\commands.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\support\\commands.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\support\\common.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\support\\common.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\support\\drag.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\support\\drag.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\cypress\\support\\index.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\cypress\\support\\index.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.columnpicker - Copy.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.columnpicker - Copy.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.columnpicker.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.columnpicker.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.columnpicker.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.columnpicker.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.columnpicker.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.columnpicker.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.gridmenu.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.gridmenu.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.gridmenu.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.gridmenu.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.gridmenu.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.gridmenu.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.pager.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.pager.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.pager.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.pager.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\controls\\slick.pager.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\controls\\slick.pager.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\examples\\examples-unicode-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\examples\\examples-unicode-icons.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\examples\\examples.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\examples\\examples.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\examples\\slick.checkboxselectcolumn-test1.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\examples\\slick.checkboxselectcolumn-test1.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\examples\\slick.checkboxselectcolumn-test2.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\examples\\slick.checkboxselectcolumn-test2.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\examples\\slick.checkboxselectcolumn-test3.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\examples\\slick.checkboxselectcolumn-test3.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\CheckboxN.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\CheckboxN.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\CheckboxY.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\CheckboxY.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\GrpCheckboxN.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\GrpCheckboxN.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\GrpCheckboxY.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\GrpCheckboxY.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\actions.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\actions.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\ajax-loader-small.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\ajax-loader-small.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\arrow-right.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\arrow-right.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\arrow_redo.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\arrow_redo.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\arrow_right_peppermint.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\arrow_right_peppermint.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\arrow_right_spearmint.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\arrow_right_spearmint.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\arrow_undo.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\arrow_undo.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\bullet_blue.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\bullet_blue.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\bullet_star.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\bullet_star.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\bullet_toggle_minus.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\bullet_toggle_minus.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\bullet_toggle_plus.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\bullet_toggle_plus.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\calendar.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\calendar.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\collapse.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\collapse.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\column-grouping.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\column-grouping.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\comment_yellow.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\comment_yellow.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\delete.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\delete.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\down.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\down.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\drag-handle.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\drag-handle.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\editor-helper-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\editor-helper-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\expand.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\expand.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\header-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\header-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\header-columns-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\header-columns-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\header-columns-over-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\header-columns-over-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\help.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\help.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\info.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\info.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\listview.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\listview.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\pencil.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\pencil.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\row-over-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\row-over-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\sort-asc.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\sort-asc.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\sort-asc.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\sort-asc.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\sort-desc.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\sort-desc.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\sort-desc.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\sort-desc.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\stripes.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\stripes.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\tag_red.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\tag_red.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\tick.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\user_identity.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\user_identity.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\images\\user_identity_plus.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\images\\user_identity_plus.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.autotooltips.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.autotooltips.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.autotooltips.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.autotooltips.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellcopymanager.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellcopymanager.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellcopymanager.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellcopymanager.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellexternalcopymanager-old.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellexternalcopymanager-old.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellexternalcopymanager.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellexternalcopymanager.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellexternalcopymanager.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellexternalcopymanager.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellmenu.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellmenu.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellmenu.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellmenu.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellmenu.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellmenu.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellrangedecorator.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellrangedecorator.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellrangedecorator.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellrangedecorator.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellrangeselector.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellrangeselector.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellrangeselector.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellrangeselector.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellselectionmodel.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellselectionmodel.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.cellselectionmodel.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.cellselectionmodel.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.checkboxselectcolumn.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.checkboxselectcolumn.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.checkboxselectcolumn.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.checkboxselectcolumn.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.contextmenu.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.contextmenu.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.contextmenu.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.contextmenu.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.contextmenu.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.contextmenu.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.crossgridrowmovemanager.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.crossgridrowmovemanager.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.crossgridrowmovemanager.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.crossgridrowmovemanager.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.customtooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.customtooltip.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.customtooltip.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.customtooltip.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.customtooltip.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.customtooltip.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.draggablegrouping.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.draggablegrouping.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.draggablegrouping.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.draggablegrouping.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.draggablegrouping.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.draggablegrouping.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.headerbuttons.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.headerbuttons.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.headerbuttons.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.headerbuttons.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.headerbuttons.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.headerbuttons.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.headermenu.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.headermenu.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.headermenu.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.headermenu.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.headermenu.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.headermenu.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.resizer.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.resizer.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.resizer.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.resizer.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowdetailview.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowdetailview.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowdetailview.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowdetailview.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowdetailview.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowdetailview.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowmovemanager.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowmovemanager.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowmovemanager.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowmovemanager.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowselectionmodel.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowselectionmodel.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.rowselectionmodel.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.rowselectionmodel.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.state.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.state.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\plugins\\slick.state.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\plugins\\slick.state.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick-default-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick-default-theme.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.compositeeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.compositeeditor.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.compositeeditor.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.compositeeditor.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.core.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.core.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.core.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.core.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.dataview.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.dataview.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.dataview.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.dataview.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.editors.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.editors.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.editors.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.editors.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.formatters.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.formatters.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.formatters.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.formatters.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.grid - Copy.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.grid - Copy.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.grid-diag.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.grid-diag.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.grid.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.grid.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.grid.min.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.grid.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.grid.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.groupitemmetadataprovider.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.groupitemmetadataprovider.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.groupitemmetadataprovider.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.groupitemmetadataprovider.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.interactions.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.interactions.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.interactions.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.interactions.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.remotemodel-yahoo.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.remotemodel-yahoo.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.remotemodel-yahoo.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.remotemodel-yahoo.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.remotemodel.js.map",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.remotemodel.js.map"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\dist\\slick.remotemodel.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\dist\\slick.remotemodel.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-0070-plugin-state.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-0070-plugin-state.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-auto-scroll-when-dragging.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-auto-scroll-when-dragging.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-autocomplete-editor.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-autocomplete-editor.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-autotooltips.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-autotooltips.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-bootstrap-3-header.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-bootstrap-3-header.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-checkbox-header-row.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-checkbox-header-row.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-checkbox-row-select.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-checkbox-row-select.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-colspan.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-colspan.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-column-group.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-column-group.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-composite-editor-item-details.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-composite-editor-item-details.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-composite-editor-modal-dialog.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-composite-editor-modal-dialog.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-custom-column-value-extractor.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-custom-column-value-extractor.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-drag-row-between-grids.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-drag-row-between-grids.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-draggable-grouping.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-draggable-grouping.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-dynamic-filtered-with-jquery-tabs.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-dynamic-filtered-with-jquery-tabs.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-dynamic-with-jquery-tabs.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-dynamic-with-jquery-tabs.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-excel-compatible-spreadsheet-dataview.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-excel-compatible-spreadsheet-dataview.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-excel-compatible-spreadsheet.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-excel-compatible-spreadsheet.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-explicit-initialization.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-explicit-initialization.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-external-headersort.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-external-headersort.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-footer-totals.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-footer-totals.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns-and-column-group.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns-and-column-group.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns-and-rows-spreadsheet.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns-and-rows-spreadsheet.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns-and-rows.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns-and-rows.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns-autoheight.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns-autoheight.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns-large.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns-large.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns-tabs.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns-tabs.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-columns.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-columns.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-row-reordering.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-row-reordering.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-frozen-rows.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-frozen-rows.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-grid-menu.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-grid-menu.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-grouping-checkbox-row-select.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-grouping-checkbox-row-select.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-grouping-groupcolumn.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-grouping-groupcolumn.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-grouping.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-grouping.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-header-row.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-header-row.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-html-sanitizer.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-html-sanitizer.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-jquery-accordion.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-jquery-accordion.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-multi-column-sort.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-multi-column-sort.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-multi-column-tristate-numbered-sort.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-multi-column-tristate-numbered-sort.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-multi-grid-basic.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-multi-grid-basic.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-multiselect-editor.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-multiselect-editor.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-optimizing-dataview.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-optimizing-dataview.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-optimizing-updates.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-optimizing-updates.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-plugin-contextmenu.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-plugin-contextmenu.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-plugin-custom-tooltip.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-plugin-custom-tooltip.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-plugin-headerbuttons.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-plugin-headerbuttons.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-plugin-headermenu.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-plugin-headermenu.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-row-detail-selection-and-move.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-row-detail-selection-and-move.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-select2-editor.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-select2-editor.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-select2-multiselect-editor.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-select2-multiselect-editor.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-size-to-content.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-size-to-content.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-spreadsheet.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-spreadsheet.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example-totals-via-data-provider.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example-totals-via-data-provider.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example1-simple.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example1-simple.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example10-async-post-render.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example10-async-post-render.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example10a-async-post-render-cleanup.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example10a-async-post-render-cleanup.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example11-autoheight.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example11-autoheight.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example12-fillbrowser.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example12-fillbrowser.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example13-getItem-sorting.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example13-getItem-sorting.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example14-highlighting.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example14-highlighting.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example15-auto-resize.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example15-auto-resize.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example16-row-detail.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example16-row-detail.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example17-row-detail-many-columns.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example17-row-detail-many-columns.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example2-formatters-event.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example2-formatters-event.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example2-formatters.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example2-formatters.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example3-editing.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example3-editing.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example3a-compound-editors.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example3a-compound-editors.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example3b-editing-with-undo.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example3b-editing-with-undo.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example4-model.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example4-model.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example5-collapsing-treeGrid-sort.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example5-collapsing-treeGrid-sort.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example5-collapsing.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example5-collapsing.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example6-ajax-loading-yahoo.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example6-ajax-loading-yahoo.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example6-ajax-loading.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example6-ajax-loading.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example7-events.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example7-events.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example8-alternative-display.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example8-alternative-display.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example9-row-reordering-simple.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example9-row-reordering-simple.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\example9-row-reordering.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\example9-row-reordering.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\examples-unicode-icons.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\examples-unicode-icons.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\examples.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\examples.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\favicon.ico"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\examples\\index.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\examples\\index.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\CheckboxN.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\CheckboxN.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\CheckboxY.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\CheckboxY.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\GrpCheckboxN.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\GrpCheckboxN.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\GrpCheckboxY.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\GrpCheckboxY.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\actions.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\actions.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\ajax-loader-small.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\ajax-loader-small.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\arrow-right.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\arrow-right.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\arrow_redo.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\arrow_redo.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\arrow_right_peppermint.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\arrow_right_peppermint.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\arrow_right_spearmint.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\arrow_right_spearmint.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\arrow_undo.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\arrow_undo.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\bullet_blue.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\bullet_blue.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\bullet_star.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\bullet_star.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\bullet_toggle_minus.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\bullet_toggle_minus.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\bullet_toggle_plus.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\bullet_toggle_plus.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\calendar.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\calendar.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\collapse.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\collapse.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\column-grouping.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\column-grouping.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\comment_yellow.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\comment_yellow.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\delete.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\delete.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\down.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\down.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\drag-handle.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\drag-handle.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\editor-helper-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\editor-helper-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\expand.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\expand.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\header-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\header-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\header-columns-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\header-columns-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\header-columns-over-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\header-columns-over-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\help.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\help.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\info.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\info.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\listview.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\listview.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\pencil.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\pencil.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\row-over-bg.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\row-over-bg.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\sort-asc.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\sort-asc.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\sort-asc.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\sort-asc.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\sort-desc.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\sort-desc.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\sort-desc.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\sort-desc.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\stripes.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\stripes.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\tag_red.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\tag_red.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\tick.png",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\user_identity.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\user_identity.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\images\\user_identity_plus.gif",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\images\\user_identity_plus.gif"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\index.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\index.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\firebugx.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\firebugx.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery-3.1.0.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery-3.1.0.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery-migrate-1.2.1.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery-migrate-1.2.1.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery-ui-1.11.3.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery-ui-1.11.3.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery-ui-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery-ui-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.event.drag-2.3.0.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.event.drag-2.3.0.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.event.drop-2.3.0.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.event.drop-2.3.0.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.jsonp-2.4.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.jsonp-2.4.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.mousewheel.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.mousewheel.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.simulate.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.simulate.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.sparkline-2-1-2.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.sparkline-2-1-2.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\jquery.tmpl.min.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\jquery.tmpl.min.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\qunit.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\qunit.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\qunit.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\qunit.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\lib\\select2.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\lib\\select2.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\package-lock.json"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\package.json",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\package.json"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.autotooltips.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.autotooltips.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellcopymanager.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellcopymanager.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellexternalcopymanager.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellexternalcopymanager.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellmenu.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellmenu.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellmenu.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellmenu.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellrangedecorator.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellrangedecorator.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellrangeselector.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellrangeselector.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.cellselectionmodel.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.cellselectionmodel.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.checkboxselectcolumn.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.checkboxselectcolumn.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.contextmenu.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.contextmenu.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.contextmenu.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.contextmenu.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.crossgridrowmovemanager.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.crossgridrowmovemanager.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.customtooltip.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.customtooltip.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.customtooltip.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.customtooltip.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.draggablegrouping.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.draggablegrouping.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.draggablegrouping.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.draggablegrouping.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.headerbuttons.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.headerbuttons.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.headerbuttons.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.headerbuttons.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.headermenu.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.headermenu.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.headermenu.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.headermenu.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.resizer.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.resizer.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.rowdetailview.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.rowdetailview.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.rowdetailview.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.rowdetailview.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.rowmovemanager.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.rowmovemanager.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.rowselectionmodel.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.rowselectionmodel.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\plugins\\slick.state.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\plugins\\slick.state.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\changelog.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\changelog.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\child-process.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\child-process.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\git-utils.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\git-utils.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\github-release.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\github-release.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\minify.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\minify.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\npm-utils.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\npm-utils.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\scripts\\release.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\scripts\\release.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick-default-theme.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick-default-theme.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.compositeeditor.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.compositeeditor.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.core.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.core.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.dataview.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.dataview.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.editors.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.editors.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.formatters.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.formatters.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.grid.css",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.grid.css"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.grid.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.grid.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.groupitemmetadataprovider.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.groupitemmetadataprovider.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.interactions.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.interactions.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.remotemodel-yahoo.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.remotemodel-yahoo.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slick.remotemodel.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slick.remotemodel.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\slickgrid.nuspec",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\slickgrid.nuspec"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\40 grids on a page test.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\40 grids on a page test.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\dataview\\dataview.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\dataview\\dataview.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\dataview\\index.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\dataview\\index.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\grid\\grid.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\grid\\grid.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\grid\\index.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\grid\\index.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\index.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\index.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\init benchmark.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\init benchmark.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\model benchmarks.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\model benchmarks.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\autotooltips.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\autotooltips.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\autotooltips.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\autotooltips.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\cellrangedecorator.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\cellrangedecorator.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\cellrangedecorator_spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\cellrangedecorator_spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\cellrangeselector.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\cellrangeselector.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\cellrangeselector_spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\cellrangeselector_spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\cellselectionmodel.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\cellselectionmodel.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\plugins\\cellselectionmodel_spec.js",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\plugins\\cellselectionmodel_spec.js"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\scrolling benchmark raf.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\scrolling benchmark raf.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\scrolling benchmarks.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\scrolling benchmarks.html"
+    },
+    {
+      "Id": "C:\\UQ Courses\\Semester 4\\Thesis\\Code\\GUI .NET v4\\gRPC\\gRPCClient\\wwwroot\\lib\\slickgrid\\tests\\test-4-rows-paging.html",
+      "PackagePath": "staticwebassets\\lib\\slickgrid\\tests\\test-4-rows-paging.html"
+    },
+    {
+      "Id": "C:\\Users\\Aravind Suresh\\.nuget\\packages\\datatables.net-dt\\1.13.4\\contentFiles\\any\\any\\wwwroot\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\Aravind Suresh\\.nuget\\packages\\datatables.net-dt\\1.13.4\\contentFiles\\any\\any\\wwwroot\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Aravind Suresh\\.nuget\\packages\\datatables.net-dt\\1.13.4\\contentFiles\\any\\any\\wwwroot\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Aravind Suresh\\.nuget\\packages\\datatables.net-dt\\1.13.4\\contentFiles\\any\\any\\wwwroot\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Aravind Suresh\\.nuget\\packages\\datatables.net\\1.13.4\\contentFiles\\any\\any\\wwwroot\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Aravind Suresh\\.nuget\\packages\\datatables.net\\1.13.4\\contentFiles\\any\\any\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.gRPCClient.props",
+      "PackagePath": "build\\gRPCClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.gRPCClient.props",
+      "PackagePath": "buildMultiTargeting\\gRPCClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.gRPCClient.props",
+      "PackagePath": "buildTransitive\\gRPCClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.gRPCClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

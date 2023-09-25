@@ -1,0 +1,61 @@
+﻿@*@model gRPC_Client.Inventory
+@using gRPCClient.Helpers
+@{
+}
+@Html.AntiForgeryToken()
+
+<form asp-action="ReadData" method="post">
+    <table class="table table-striped table-striped">
+        <tr>
+            <td>Product ID</td>
+          
+            <td><input type="text" value="@GlobalVariables.scanInv.ProductID"></td>
+        </tr>
+        <tr>
+            <td>Product Name</td>
+            <td>@Html.TextBoxFor(m => m.ProductName, new { @required = "required", @Value = GlobalVariables.scanInv.ProductName })</td>
+        </tr>
+        <tr>
+            <td>Quantity</td>
+            <td>@Html.TextBoxFor(m => m.Quantity, new { @type = "number", @required = "required", @Value = GlobalVariables.scanInv.Quantity })</td>
+        </tr>
+        <tr>
+            <td>Date Received</td>
+            
+            <td>@Html.TextBoxFor(m => m.DateRecieved, new { @required = "required", @Value = GlobalVariables.scanInv.DateRecieved })</td>
+        </tr>
+        <tr>
+            <td>Cost</td>
+            <td>@Html.TextBoxFor(m => m.Cost, new { @type = "number", @required = "required", @Value = GlobalVariables.scanInv.Cost })</td>
+        </tr>
+    </table>
+
+
+</form>*@
+
+@model gRPC_Client.Inventory
+@using gRPCClient.Helpers
+@{
+    string successMessage = GlobalVariables.IsSuccess ? "Success" : "";
+}
+
+@*<div>
+    <p><b>Scan your NFC card.</b></p>
+        <p>If the NFC reader's green light comes up, it indicates that the product has been successfully added to the backend. You can now safely remove the card.</p>
+</div>*@
+<div style="text-align: center;">
+    <p style="font-size: 18px; font-weight: bold;"><b>Scan your NFC card.</b></p>
+    <p style="font-size: 14px;">If the NFC reader's green light comes up, it indicates that the product has been successfully added to the backend. You can now safely remove the card.</p>
+</div>
+
+@*<div id="successMessage" style="display: none;">@successMessage</div>*@
+
+@*<script>
+    var successFlag = GlobalVariables.IsSuccess;
+    if (successFlag) {
+        $("#successMessage").text("Success").show();
+        setTimeout(function () {
+            $("#successMessage").fadeOut();
+        }, 3000); // Hide the success message after 3 seconds
+    }
+</script>*@

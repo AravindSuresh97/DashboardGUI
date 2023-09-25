@@ -1,0 +1,40 @@
+﻿@model gRPC_Client.LoginDetail
+@using gRPCClient.Helpers
+@{
+}
+@Html.AntiForgeryToken()
+
+<form asp-action="AddUser" method="post">
+    <table class="table table-striped table-striped">
+       
+        <tr>
+           
+            <td>User Name
+               
+
+            </td> 
+            <td>@Html.TextBoxFor(m => m.Username, new { @required = "required" })</td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td>@Html.TextBoxFor(m => m.Passwordhash, new { @required = "required" })</td>
+        </tr>
+        @if (GlobalVariables.UsernameExists)
+        {
+            <script>
+                setTimeout(function () {
+                @{
+                    GlobalVariables.UsernameExists = false;
+                }
+                            }, 2000);
+            </script>
+            <tr>
+            <label style="color:red; "><i><b>**Username Already Exists**</b></i></label>
+            </tr>
+        }
+    </table>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
+<a asp-action="Index">Back to list</a>

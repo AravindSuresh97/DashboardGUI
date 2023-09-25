@@ -1,0 +1,154 @@
+﻿@model gRPC_Client.Inventorys
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!-- jQuery library (required) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+@*<script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>*@
+
+
+
+<!-- DataTables CSS -->
+<link rel="stylesheet" href="~/lib/datatables/datatables.min.css" />
+
+<!-- DataTables JS -->
+<script src="~/lib/datatables/datatables.min.js"></script>
+
+@*<link href="https://cdn.datatables.net/v/dt/dt-1.13.4/datatables.min.css" rel="stylesheet" />
+
+<script src="https://cdn.datatables.net/v/dt/dt-1.13.4/datatables.min.js"></script>*@
+
+
+
+<a class="btn btn-primary"  asp-action="Create">Create</a>
+@*<button id="exportBtn" class="btn btn-primary">Export</button>*@
+@*<a class="btn btn-primary" asp-action="Login">Logout</a>*@
+<table id="inventoryTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Quantity</th>
+            <th>Date</th>
+            <th>Cost</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Items)
+        {
+            <tr>
+                <td>@product.ProductID</td>
+                <td>@product.ProductName</td>
+                <td>@product.Quantity</td>
+                <td>@product.DateRecieved</td>
+                <td>@product.Cost</td>
+                <td>
+                    <a asp-controller="Product"
+                   asp-action="Edit"
+                       class="btn btn-primary"
+                   asp-route-id="@product.ProductID">Edit</a>
+
+                    <a asp-controller="Product"
+                   asp-action="Delete"
+                       class="btn btn-danger"
+                   asp-route-id="@product.ProductID">Delete</a>
+                   @* <a asp-controller="Product"
+                       class="btn btn-danger"
+                   asp-route-id="@product.ProductID">Delete</a>*@
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*Sorting n Filtering*@
+<script>
+    jQuery.noConflict();
+    jQuery(document).ready(function () {
+        jQuery('#inventoryTable').DataTable({
+            "searching": true, // enable search box
+            "paging": true, // enable pagination
+            "ordering": true, // enable column sorting
+            "order": [[0, "asc"]], // set default sorting column
+            "lengthMenu": [10, 25, 50, 100], // set page length options
+            "columns": [
+                null, // enable sorting for all columns
+                null,
+                null,
+                { "type": "date" } // enable date sorting for Date column
+            ]
+        });
+    });
+</script>
+
+@*<script>
+    jQuery(document).ready(function () {
+        // initialize tablesorter on the inventory table
+        jQuery("#inventoryTable").tablesorter({
+            headers: {
+                // configure sorting options for each column
+                0: { sorter: "number" },
+                1: { sorter: "string" },
+                2: { sorter: "number" }
+            }
+        });
+    });
+</script>*@
+
+
+@*Export Data to CSV*@
+<script>
+
+    jQuery(document).ready(function () {
+        // Export data to CSV or Excel format
+        jQuery('#exportBtn').click(function () {
+            // Get table data as an array
+            var data = [];
+            var header = [];
+            jQuery("#inventoryTable thead tr").each(function (row, tr) {
+                header[row] = [];
+                jQuery(tr).find('th').each(function (col, th) {
+                    if (jQuery(th).text() != 'Actions')
+                        header[row][col] = jQuery(th).text();
+                });
+            });
+            data.push(header[0]);
+
+            jQuery('#inventoryTable tbody tr').each(function (row, tr) {
+                var rowData = [];
+                jQuery(tr).find('td').each(function (col, td) {
+                    if (jQuery(td).text() != '\n                    Edit\n\n                    Delete\n\n                ')
+                        rowData.push(jQuery(td).text());
+                });
+                data.push(rowData);
+            });
+
+            // Convert array to CSV or Excel format
+            var csv = '';
+            for (var i = 0; i < data.length; i++) {
+                csv += data[i].join(',') + '\n';
+            }
+
+            // Download CSV or Excel file
+            var blob = new Blob([csv], { type: 'text/csv;charset=utf-8;' });
+            var link = document.createElement("a");
+            var url = URL.createObjectURL(blob);
+            link.setAttribute("href", url);
+            link.setAttribute("download", "inventory.csv");
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        });
+    });
+
+</script>

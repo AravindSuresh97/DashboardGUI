@@ -1,0 +1,53 @@
+﻿
+syntax = "proto3";
+import "google/protobuf/timestamp.proto";
+
+option csharp_namespace = "gRPC_Server";
+
+package product;
+
+service ProductSrv {
+
+    rpc GetAll(Empty) returns (Inventorys);
+    rpc GetAllLoginDetails(Empty) returns (LoginDetails);
+    rpc Post(Inventory) returns (BoolResponse);
+    rpc PostLogin(LoginDetail) returns (BoolResponse);
+    rpc LoginCheck(LoginDetail) returns (BoolResponse);
+    rpc GetById(ProductRowIdFilter) returns (Inventory);
+    rpc Put (Inventory) returns (Inventory);
+    rpc Delete (ProductRowIdFilter) returns (Empty);
+
+}
+
+message Empty {}
+
+message BoolResponse {
+  bool success = 1;
+  bool fail = 2;
+}
+
+message Inventory{
+    string ProductID = 1;
+    string ProductName = 2;
+    int32 Quantity = 3;
+    string DateRecieved = 4;
+    int32 Cost=5;
+}
+
+message LoginDetail{
+    string Username = 1;
+    string Passwordhash = 2;
+    string PasswordSalt = 3;
+}
+
+message ProductRowIdFilter{
+
+    string ProductID = 1;
+}
+
+message Inventorys{
+    repeated Inventory items = 1;
+}
+message LoginDetails{
+    repeated LoginDetail items = 1;
+}

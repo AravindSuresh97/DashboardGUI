@@ -1,0 +1,135 @@
+﻿@model gRPC_Client.LoginCreds
+@using gRPCClient.Helpers
+@{
+    ViewBag.Title = "Login Page";
+    Layout = null;
+}
+@Html.AntiForgeryToken()
+<form asp-action="Login" method="post">
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            width: 400px;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: none;
+            border-radius: 4px;
+            background-color: #f5f5f5;
+        }
+
+            input[type="text"]:focus,
+            input[type="password"]:focus {
+                outline: none;
+                background-color: #e0e0e0;
+            }
+
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            background-color: #4CAF50;
+            color: #fff;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #45a049;
+            }
+    </style>
+        <script>
+            function checkUsernameInput() {
+                var usernameInput = document.getElementById('Username');
+                var passwordInput = document.getElementById('Passwordhash');
+                var submitButton = document.getElementById('submitButton');
+
+                if (usernameInput.value.trim() == '' || passwordInput.value.trim() == '') {
+                    submitButton.disabled = true;
+                    submitButton.style.backgroundColor = 'darkgrey';
+                } else {
+                    submitButton.disabled = false;
+                    submitButton.style.backgroundColor = 'Green';
+                }
+            }
+        </script>
+
+</head>
+<body>
+    <div class="container">
+        <h2>Login Page</h2>
+        @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { id = "loginForm" }))
+        {
+            @Html.AntiForgeryToken()
+
+            @Html.ValidationSummary(true)
+
+    @*        <div>
+                @Html.LabelFor(m => m.Username)
+                @Html.TextBoxFor(m => m.Username, new { type = "text" })
+                @Html.ValidationMessageFor(m => m.Username)
+            </div>
+
+            <div>
+                @Html.LabelFor(m => m.Password)
+                @Html.PasswordFor(m => m.Password)
+                @Html.ValidationMessageFor(m => m.Password)
+            </div>*@
+            <div>
+                    @if (GlobalVariables.WrongCreds)
+                    {
+                        <label style="color: red">Wrong Username or Password combination<br></label>
+                    }
+                    else
+                    {
+                        <label></label>
+                    }
+            </div>
+            <div>
+                <label for="Username">Username</label>
+                <input type="text" id="Username" name="Username" oninput="checkUsernameInput()" />
+            </div>
+
+            <div>
+                <label for="Password">Password</label>
+                    <input type="password" id="Passwordhash" name="Passwordhash" oninput="checkUsernameInput()" />
+            </div>
+
+            <div>
+                @*<button type="submit" onclick="loginClicked()"  class="btn btn-primary">Login</button>*@
+                @*<input  type="submit" onclick="loginClicked()" value="Login" />*@
+                    <input id="submitButton" type="submit" value="Login" style="background-color:darkgrey" disabled/>
+            </div>
+        }
+    </div>
+</body>
+</html>
+</form>
